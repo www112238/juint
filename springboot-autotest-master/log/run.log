@@ -1,0 +1,9 @@
+2024-03-01 15:02:17,261 [main] [com.example.demo.SpringbootAutotestApplication] [INFO] (StartupInfoLogger.java:50)- Starting SpringbootAutotestApplication on SC-202212271219 with PID 31492 (G:\unity3d\springboot-autotest-master\springboot-autotest-master\target\classes started by Administrator in G:\unity3d\springboot-autotest-master\springboot-autotest-master)
+2024-03-01 15:02:17,266 [main] [com.example.demo.SpringbootAutotestApplication] [DEBUG] (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2024-03-01 15:02:17,266 [main] [com.example.demo.SpringbootAutotestApplication] [INFO] (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2024-03-01 15:02:18,444 [main] [com.example.demo.SpringbootAutotestApplication] [INFO] (StartupInfoLogger.java:59)- Started SpringbootAutotestApplication in 1.602 seconds (JVM running for 2.886)
+2024-03-01 15:02:43,070 [main] [com.example.demo.ApplicationWebServiceTest] [INFO] (StartupInfoLogger.java:50)- Starting ApplicationWebServiceTest on SC-202212271219 with PID 29592 (started by Administrator in G:\unity3d\springboot-autotest-master\springboot-autotest-master)
+2024-03-01 15:02:43,071 [main] [com.example.demo.ApplicationWebServiceTest] [DEBUG] (StartupInfoLogger.java:53)- Running with Spring Boot v2.1.3.RELEASE, Spring v5.1.5.RELEASE
+2024-03-01 15:02:43,072 [main] [com.example.demo.ApplicationWebServiceTest] [INFO] (SpringApplication.java:675)- No active profile set, falling back to default profiles: default
+2024-03-01 15:02:45,440 [main] [com.example.demo.ApplicationWebServiceTest] [INFO] (StartupInfoLogger.java:59)- Started ApplicationWebServiceTest in 2.863 seconds (JVM running for 5.944)
+2024-03-01 15:02:45,962 [main] [com.example.demo.ApplicationWebServiceTest] [INFO] (ApplicationWebServiceTest.java:40)- 实际返回结果result=hello from service layer
